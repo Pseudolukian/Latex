@@ -8,3 +8,8 @@
 * [Настройка языка и шрифтов](preambula-obshii-stil-dokumenta/nastroika-yazyka-i-shriftov.md)
 * [Использование внешнего стилевого файла](preambula-obshii-stil-dokumenta/ispolzovanie-vneshnego-stilevogo-faila.md)
 
+## Работа с картинками
+
+* [Подготовка окружения](rabota-s-kartinkami/podgotovka-okruzheniya.md)
+* [Вставка изображения в документ](rabota-s-kartinkami/vstavka-izobrazheniya-v-dokument.md)
+
