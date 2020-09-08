@@ -1,10 +1,10 @@
+---
+description: >-
+  Latex - это система PDF-продакшена. В латехе вы работаете с текстом,
+  таблицами, картинками и прочими элементами как с объектами.
+---
+
 # Latex
 
 ## **Оглавление**
-
-{% page-ref page="preambula-obshii-stil-dokumenta/nastroiki-parametrov-dokumenta-i-lista.md" %}
-
-{% page-ref page="preambula-obshii-stil-dokumenta/nastroika-yazyka-i-shriftov.md" %}
-
-
 

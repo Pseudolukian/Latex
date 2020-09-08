@@ -13,3 +13,9 @@
 * [Подготовка окружения](rabota-s-kartinkami/podgotovka-okruzheniya.md)
 * [Вставка изображения в документ](rabota-s-kartinkami/vstavka-izobrazheniya-v-dokument.md)
 
+---
+
+* [Колонтитулы](kolontituly.md)
+* [Параграф](paragraf.md)
+* [Переносы](perenosy.md)
+
